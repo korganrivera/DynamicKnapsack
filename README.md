@@ -1,2 +1,2 @@
 # DynamicKnapsack
-Knapsack problem solver using dynamic programming.
+Simple example of using dynamic programming to solve the knapsack problem.
